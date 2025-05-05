@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A049F071-490C-45A8-B80A-043AFF386E44}|MindBox\\MindBox.csproj|c:\\users\\1\\desktop\\mindbox\\mindbox_dataengineer_testtask\\mindbox\\mindbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A049F071-490C-45A8-B80A-043AFF386E44}|MindBox\\MindBox.csproj|solutionrelative:mindbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419E7BA3-3912-40EF-BBDF-031B5A1B8DCA}|GeometryLibraryTest\\GeometryLibraryTest.csproj|c:\\users\\1\\desktop\\mindbox\\mindbox_dataengineer_testtask\\mindbox\\geometrylibrarytest\\shapetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419E7BA3-3912-40EF-BBDF-031B5A1B8DCA}|GeometryLibraryTest\\GeometryLibraryTest.csproj|solutionrelative:geometrylibrarytest\\shapetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CB0F92-0634-488B-9ACF-4AF565753252}|GeometryLibrary\\GeometryLibrary.csproj|c:\\users\\1\\desktop\\mindbox\\mindbox_dataengineer_testtask\\mindbox\\geometrylibrary\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CB0F92-0634-488B-9ACF-4AF565753252}|GeometryLibrary\\GeometryLibrary.csproj|solutionrelative:geometrylibrary\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CB0F92-0634-488B-9ACF-4AF565753252}|GeometryLibrary\\GeometryLibrary.csproj|c:\\users\\1\\desktop\\mindbox\\mindbox_dataengineer_testtask\\mindbox\\geometrylibrary\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CB0F92-0634-488B-9ACF-4AF565753252}|GeometryLibrary\\GeometryLibrary.csproj|solutionrelative:geometrylibrary\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A049F071-490C-45A8-B80A-043AFF386E44}|MindBox\\MindBox.csproj|c:\\users\\1\\desktop\\mindbox\\mindbox_dataengineer_testtask\\mindbox\\mindbox\\mindbox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A049F071-490C-45A8-B80A-043AFF386E44}|MindBox\\MindBox.csproj|solutionrelative:mindbox\\mindbox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CB0F92-0634-488B-9ACF-4AF565753252}|GeometryLibrary\\GeometryLibrary.csproj|c:\\users\\1\\desktop\\mindbox\\mindbox_dataengineer_testtask\\mindbox\\geometrylibrary\\shapeareacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CB0F92-0634-488B-9ACF-4AF565753252}|GeometryLibrary\\GeometryLibrary.csproj|solutionrelative:geometrylibrary\\shapeareacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CB0F92-0634-488B-9ACF-4AF565753252}|GeometryLibrary\\GeometryLibrary.csproj|c:\\users\\1\\desktop\\mindbox\\mindbox_dataengineer_testtask\\mindbox\\geometrylibrary\\geometrylibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28CB0F92-0634-488B-9ACF-4AF565753252}|GeometryLibrary\\GeometryLibrary.csproj|solutionrelative:geometrylibrary\\geometrylibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CB0F92-0634-488B-9ACF-4AF565753252}|GeometryLibrary\\GeometryLibrary.csproj|c:\\users\\1\\desktop\\mindbox\\mindbox_dataengineer_testtask\\mindbox\\geometrylibrary\\abstracts\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CB0F92-0634-488B-9ACF-4AF565753252}|GeometryLibrary\\GeometryLibrary.csproj|solutionrelative:geometrylibrary\\abstracts\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\GeometryLibrary\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary\\Shapes\\Circle.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\GeometryLibrary\\Shapes\\Circle.cs",
+              "RelativeToolTip": "GeometryLibrary\\Shapes\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:11:14.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MindBox",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\MindBox\\MindBox.csproj",
+              "RelativeDocumentMoniker": "MindBox\\MindBox.csproj",
+              "ToolTip": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\MindBox\\MindBox.csproj",
+              "RelativeToolTip": "MindBox\\MindBox.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T08:10:23.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShapeAreaCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\GeometryLibrary\\ShapeAreaCalculator.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary\\ShapeAreaCalculator.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\GeometryLibrary\\ShapeAreaCalculator.cs",
+              "RelativeToolTip": "GeometryLibrary\\ShapeAreaCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:08:31.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeometryLibrary",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\GeometryLibrary\\GeometryLibrary.csproj",
+              "RelativeDocumentMoniker": "GeometryLibrary\\GeometryLibrary.csproj",
+              "ToolTip": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\GeometryLibrary\\GeometryLibrary.csproj",
+              "RelativeToolTip": "GeometryLibrary\\GeometryLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T07:52:32.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShapeTests.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\GeometryLibraryTest\\ShapeTests.cs",
+              "RelativeDocumentMoniker": "GeometryLibraryTest\\ShapeTests.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\GeometryLibraryTest\\ShapeTests.cs",
+              "RelativeToolTip": "GeometryLibraryTest\\ShapeTests.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:59:54.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\GeometryLibrary\\Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary\\Shapes\\Triangle.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\GeometryLibrary\\Shapes\\Triangle.cs",
+              "RelativeToolTip": "GeometryLibrary\\Shapes\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:53:30.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\GeometryLibrary\\Abstracts\\Shape.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary\\Abstracts\\Shape.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\GeometryLibrary\\Abstracts\\Shape.cs",
+              "RelativeToolTip": "GeometryLibrary\\Abstracts\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:50:45.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\MindBox\\Program.cs",
+              "RelativeDocumentMoniker": "MindBox\\Program.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\MindBox\\MindBox_DataEngineer_TestTask\\MindBox\\MindBox\\Program.cs",
+              "RelativeToolTip": "MindBox\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:47:11.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
